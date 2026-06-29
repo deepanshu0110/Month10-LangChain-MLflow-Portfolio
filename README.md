@@ -33,6 +33,7 @@ Columns: review_id, freelancer_id, review_text, sentiment, rating, hired_again, 
 |-----|------|------|-------|
 | Day 169 | Day169_LangChain_Chains_Memory.ipynb | IPYNB | LangChain Chains & Memory |
 | Day 170 | Day170_LangChain_Tools_Agents.ipynb | IPYNB | LangChain Tools & Agents |
+| Day 171 | Day171_DocumentLoaders_LCEL.ipynb | IPYNB | Document Loaders + LCEL |
 | Day — | auto_sync.py | PY | — |
 
 ---
