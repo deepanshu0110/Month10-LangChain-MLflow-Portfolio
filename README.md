@@ -2,7 +2,7 @@
 
 **Student:** Deepanshu Garg | **GitHub:** [deepanshu0110](https://github.com/deepanshu0110)  
 **Period:** Month 10 of 12-month Data Science & AI Roadmap  
-**Last synced:** 2026-06-28 11:09
+**Last synced:** 2026-06-29 12:31
 
 ---
 
@@ -32,6 +32,7 @@ Columns: review_id, freelancer_id, review_text, sentiment, rating, hired_again, 
 | Day | File | Type | Topic |
 |-----|------|------|-------|
 | Day 169 | Day169_LangChain_Chains_Memory.ipynb | IPYNB | LangChain Chains & Memory |
+| Day 170 | Day170_LangChain_Tools_Agents.ipynb | IPYNB | LangChain Tools & Agents |
 | Day — | auto_sync.py | PY | — |
 
 ---
