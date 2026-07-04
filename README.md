@@ -2,7 +2,7 @@
 
 **Student:** Deepanshu Garg | **GitHub:** [deepanshu0110](https://github.com/deepanshu0110)  
 **Period:** Month 10 of 12-month Data Science & AI Roadmap  
-**Last synced:** 2026-07-03 19:41
+**Last synced:** 2026-07-04 12:12
 
 ---
 
@@ -40,6 +40,9 @@ Columns: review_id, freelancer_id, review_text, sentiment, rating, hired_again, 
 | Day 175 | Day175_Ollama_on_Colab.ipynb | IPYNB | MLflow Capstone |
 | Day 176 | Day176_Evidently_Drift_Monitoring_Part1.ipynb | IPYNB | Ollama on Colab |
 | Day 177 | Day177_Evidently_Drift_Monitoring_Part2.ipynb | IPYNB | Evidently Drift Monitoring - Part 1 |
+| Day 178 | day178_prompt_engineering.ipynb | IPYNB | Evidently Drift Monitoring - Part 2 |
+| Day 179 | day179_output_parsers.ipynb | IPYNB | Prompt Engineering |
+| Day 180 | day180_month10_capstone.ipynb | IPYNB | Month 10 Capstone |
 | Day — | auto_sync.py | PY | — |
 
 ---
